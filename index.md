@@ -36,13 +36,13 @@ Veille concurrentiel/ Communication digitale/ Graphisme/ Rédaction web/ E maili
 (Avril / mai 2022)
 Communication digitale Instagram / Réalisation de vidéos / 
 Relations clients
-- être organisé, avoir un esprit d'équipe, être créatif
+-être organisé, avoir un esprit d'équipe, être créatif
 
 - INRIA Grenoble
 (Équipe de recherche Maverick) / stage en juin 2016
 Découverte des métiers de la recherche dans le domaine de la 
 synthèse d’images
-- être attentif et curieux
+-être attentif et curieux
 
 ## Compétences
 - Recherche d'informations avancé 
